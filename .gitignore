@@ -1,0 +1,33 @@
+# ⬇ Arquivos compilados pelo Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ⬇ Ambientes virtuais
+.venv/
+env/
+ENV/
+venv/
+pip-wheel-metadata/
+
+# ⬇ Configurações locais de editores
+.vscode/
+
+# ⬇ Artefatos de distribuição
+build/
+dist/
+*.egg-info/
+
+# ⬇ Dados gerados automaticamente (não versionar massas)
+data/**/*.csv
+*.csv
+
+# ⬇ Logs e caches
+*.log
+.cache/
+*.tmp
+*.bak
+
+# ⬇ Arquivos do sistema operacional (evita sujeira no repositório)
+.DS_Store
+Thumbs.db
