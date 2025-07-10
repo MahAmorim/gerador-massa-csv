@@ -29,7 +29,7 @@ YASMIN,81398859834,09052003,ACTIVE
 ```
 .
 ├── data/                  # Onde os arquivos CSV gerados são salvos
-│   └── drivers_soapui.csv
+│   └── massa.csv
 │
 ├── src/                   # Código-fonte do gerador de massa
 │   └── gerar_csv.py       # Script principal
