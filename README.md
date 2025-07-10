@@ -47,7 +47,7 @@ YASMIN,81398859834,09052003,ACTIVE
 ### 1. Clone ou baixe este repositório
 
 ```bash
-git clone nesse repo
+git clone https://github.com/MahAmorim/gerador-massa-csv
 cd gerador-massa-csv
 ```
 
